@@ -1,0 +1,6 @@
+# Ignorar la carpeta de herramientas de Node
+node_modules/
+
+# Ignorar archivos del sistema operativo (buena práctica)
+.DS_Store
+Thumbs.db

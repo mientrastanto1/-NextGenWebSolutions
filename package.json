@@ -1,0 +1,25 @@
+{
+  "name": "-nextgenwebsolutions",
+  "version": "1.0.0",
+  "description": "Proyecto: Mission Start: Auditoría de Rendimiento y Estandarización del Workspace en \"NextGen Web Solutions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mientrastanto1/-NextGenWebSolutions.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/mientrastanto1/-NextGenWebSolutions/issues"
+  },
+  "homepage": "https://github.com/mientrastanto1/-NextGenWebSolutions#readme",
+  "devDependencies": {
+    "eslint": "^10.0.3",
+    "prettier": "^3.8.1"
+  }
+}
